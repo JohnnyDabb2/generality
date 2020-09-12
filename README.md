@@ -16,5 +16,5 @@ In order for Generality to be officially complete, there must be...
   * Many, many, many small tweaks to certain features and items.
 
 
-### Can I report bugs and/or issues?
+## Can I report bugs and/or issues?
 Yes!  Just include a screenshot when needed :)
