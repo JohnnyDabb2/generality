@@ -1,4 +1,4 @@
-A 1.12.2 modpack with 300+ mods!
+A 1.12.2 modpack with 400+ mods!
 
 ## When will this pack be finished?
 In order for Generality to be officially complete, there must be...
@@ -12,7 +12,7 @@ In order for Generality to be officially complete, there must be...
   * At least 20 custom planets for Advanced Rocketry.
   * Custom mods made by me or someone else for the pack. <sub><sup>(Yes I need modders, you can dm me if you want to help out.)</sup></sub>
   * An extremely refined modlist with a severe lack of unnecessary mods.
-  * Many, many, many small tweaks to certain features and items.
+  * Many, many, many tweaks to certain features and items.
 
 
 ## Can I report bugs and/or issues?
